@@ -16,10 +16,5 @@ export default {
   data() {
     return {};
   },
-  //computed: {
-  //  posts() {
-  //    return this.$store.getters.posts
-  //  }
-  //},
 };
 </script>
